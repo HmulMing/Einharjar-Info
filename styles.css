@@ -49,9 +49,18 @@ h2{
     text-align: center;
 }
 
+h4{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
 p{
     text-align : center;
     text-align-last : center ;
+}
+
+hr{
+    width: 90%;
 }
 
 
@@ -74,5 +83,9 @@ section {
     width: 80%;       /* 내가 쓸 본문 공간은 90% */
     margin-left: auto;  /* 왼쪽 남은 공간 알아서 채우기 (5% 할당됨) */
     margin-right: auto; /* 오른쪽 남은 공간 알아서 채우기 (5% 할당됨) */
+    }
+
+    hr{
+        width: 80%;
     }
 }
