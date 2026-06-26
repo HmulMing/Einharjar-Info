@@ -73,6 +73,10 @@ section {
 .bold {
     font-weight: bold;
 }
+
+#profile *{
+    text-align : center;
+}
     
 @media (width < 500px) {
 
