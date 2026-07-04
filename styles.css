@@ -107,8 +107,9 @@ section {
     text-align : center;
 }
 
-#weaponTypeCell {
-    border: 2px;
+#weapon_type_cell {
+    border: 2px solid;
+    border-color: black;
 }
 
 #comu_name{
