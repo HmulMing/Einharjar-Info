@@ -101,6 +101,10 @@ section {
 #profile *{
     text-align : center;
 }
+
+#weaponTypeCell {
+    border: 2px;
+}
     
 @media (width < 500px) {
 
