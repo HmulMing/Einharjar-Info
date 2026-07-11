@@ -91,16 +91,30 @@ section {
     font-style: italic;
 }
 
+.underbar{
+    text-decoration-line: underline;
+}
+
 .red{
     color: red;
+}
+.whitered{
+    color: #ff6666
 }
 
 .green{
     color : green
 }
 
+.whitegreen{
+    color : #449944
+}
+
 .blue{
     color:blue
+}
+.whiteblue{
+    color: #6666ff
 }
 
 #profile *{
